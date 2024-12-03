@@ -7,9 +7,9 @@ Identifying the perturbations of cell community and contributing genes using a h
 *This is the official code, which is implemented by PyTorch.*
 
 **Framework**
-*This is the framework of sMINT.*
+<This is the framework of sMINT.
 
- <img src="https://github.com/jkj0406/sMINT/blob/main/Fig1.tif" width="800">
+ <img src="https://github.com/jkj0406/sMINT/blob/main/Fig1.png" width="800">
 
 
 The code and related configurations of sMINT will be made public after publication.
