@@ -9,7 +9,7 @@ Identifying the perturbations of cell community and contributing genes using a h
 **Framework**
 >> This is the framework of sMINT.
 
- <img src="https://github.com/jkj0406/sMINT/Fig1.tif" width="800">
+ <img src="https://github.com/jkj0406/jkj0406/sMINT/blob/main/Fig1.tif" width="800">
 
 
 The code and related configurations of sMINT will be made public after publication.
